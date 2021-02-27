@@ -4,5 +4,9 @@
 
 
 ##Tech Used:
-*React
+* React
 * Express
+* Mongodb Atlas
+* Heroku
+* Mongodb
+* React Router
